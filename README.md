@@ -1,6 +1,8 @@
 # Study_projects
 
-##[Анализ покупательской активности](https://github.com/Daria-Zhukova/Study_projects/tree/main/analysis_of_consumer_activity)
+В репозитории представлены проекты, выполненые в процессе учебы.
+
+## [Анализ покупательской активности](https://github.com/Daria-Zhukova/Study_projects/tree/main/analysis_of_consumer_activity)
 
 В проекте было разработано решение, которое позволяет персонализировать предложения клиентов интернет-магазина для повышения их покупательской активности.
 
@@ -8,7 +10,7 @@
 
 Библиотеки: pandas, matplotlib, numpy, seaborn, phik, shap, scikit-learn.
 
-##[Временные ряды](https://github.com/Daria-Zhukova/Study_projects/tree/main/time_series)
+## [Временные ряды](https://github.com/Daria-Zhukova/Study_projects/tree/main/time_series)
 
 В проекте проведен исследовательский анализ временного ряда, обученны модели прогнозирования.
 
