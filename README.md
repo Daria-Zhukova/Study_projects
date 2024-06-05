@@ -9,4 +9,7 @@
 Библиотеки: pandas, matplotlib, numpy, seaborn, phik, shap, scikit-learn.
 
 ##[Временные ряды](https://github.com/Daria-Zhukova/Study_projects/tree/main/time_series)
-Библиотеки: pandas, matplotlib, numpy, seaborn, phik, shap, scikit-learn.
+
+В проекте проведен исследовательский анализ временного ряда, обученны модели прогнозирования.
+
+Библиотеки: pandas, statsmodels, LightGBM, scikit-learn.
