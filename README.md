@@ -18,4 +18,6 @@
 
 ## [Классификация текстов](https://github.com/Daria-Zhukova/Study_projects/tree/main/text_classifier)
 
+В моделях проекта были обучены классифицировать тексты на позитивные и негативные. Использованы модели: Логистическая регрессия, KNeighboursClassifier, DecisionTreeClassifier, SVC.
 
+Библиотеки: pandas, spacy, re, sklearn.
