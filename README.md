@@ -15,3 +15,7 @@
 В проекте проведен исследовательский анализ временного ряда, обученны модели прогнозирования.
 
 Библиотеки: pandas, statsmodels, LightGBM, scikit-learn.
+
+## [Классификация текстов](https://github.com/Daria-Zhukova/Study_projects/tree/main/text_classifier)
+
+
